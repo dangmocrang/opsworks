@@ -1,4 +1,5 @@
 # webserver
 
-TODO: Enter the cookbook description here.
+cookbook name: webserver
+recipe: apache2
 
