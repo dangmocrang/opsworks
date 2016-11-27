@@ -1,1 +1,2 @@
-# opsworks
+# OpsWorks
+Custom cookbook

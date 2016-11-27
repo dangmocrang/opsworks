@@ -1,6 +1,10 @@
-# webserver
+# Web Server
+Cookbook: webserver
 
-cookbook name: webserver
+##Technology: apache2
+Recipe: apache2
 
-recipe: apache2
-
+##Technology: JBOSS
+Recipe:
+*Java SDK 1.7
+*JBOSS
