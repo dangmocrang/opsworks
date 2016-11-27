@@ -8,4 +8,5 @@ Recipe: apache2
 Recipe:
 
 *Java SDK 1.7
+
 *JBOSS
