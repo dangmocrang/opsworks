@@ -2,9 +2,24 @@
 Cookbook: webserver
 
 ##Technology: apache2
-Recipe: apache2
+Recipes:
+
+* apache2
+
+* apache2-deploy
 
 ##Technology: JBOSS
-Recipe:
-*Java SDK 1.7
-*JBOSS
+Recipes:
+
+* java-sdk-17
+
+* jboss
+
+* jboss-deploy
+
+##Technology: Nginx
+Recipes:
+
+* nginx
+
+* nginx-deploy
